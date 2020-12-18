@@ -1,3 +1,4 @@
 **/#*#
 **/*.orig
-elpa/archives/gnu/archive-contents
+**/*~
+elpa/
